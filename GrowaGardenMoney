@@ -1,15 +1,14 @@
---//
-Opa tudo bão?
+-- Opa tudo bão?
 
 
-Oque faz você entrar no meu codigo?? Roubar né safado...
+-- Oque faz você entrar no meu codigo?? Roubar né safado...
 
 
 
 
 
 
-....
+-- ....
 
 
 
@@ -21,7 +20,7 @@ Oque faz você entrar no meu codigo?? Roubar né safado...
 
 
 
-Oque?
+-- Oque?
 
 
 
@@ -30,7 +29,7 @@ Oque?
 
 
 
-Ahh se quer o codigo??
+-- Ahh se quer o codigo??
 
 
 
@@ -42,14 +41,14 @@ Ahh se quer o codigo??
 
 
 
-pode descer ai então
+-- pode descer ai então
 
 
 
 
 
 
-.
+-- .
 
 
 
@@ -57,7 +56,7 @@ pode descer ai então
 
 
 
-..
+-- ..
 
 
 
@@ -65,7 +64,7 @@ pode descer ai então
 
 
 
-...
+-- ...
 
 
 
@@ -92,7 +91,7 @@ pode descer ai então
 
 
 
-Caguei
+--- Caguei
 
 
 
@@ -113,7 +112,7 @@ Caguei
 
 
 
-Quantas linhas pqp
+-- Quantas linhas pqp
 
 
 
@@ -128,7 +127,7 @@ Quantas linhas pqp
 
 
 
-chega meu dedo arde
+-- chega meu dedo arde
 
 
 
@@ -153,13 +152,171 @@ chega meu dedo arde
 
 
 
-tá bom você venceu toma ele ai
 
 
-mas pelo menos deixa um credito ou até a ServerUi
 
 
-\\--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- tá bom você venceu toma ele ai
+
+
+-- mas pelo menos deixa um credito ou até a ServerUi
 
 
 local ServerUi = loadstring(game:HttpGet("https://raw.githubusercontent.com/ServerSad/UiLib/refs/heads/main/Lib/uilib.lua"))()
